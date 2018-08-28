@@ -16,7 +16,7 @@ int main() {
     scanf("%i", &hour);
 
 
-        if (hour > 0 && hour < 24);
+        if (hour > -1 && hour < 24);
 
         else {
             printf("ERROR. Please enter a valid number.");
